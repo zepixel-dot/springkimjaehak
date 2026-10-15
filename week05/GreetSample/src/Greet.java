@@ -1,0 +1,7 @@
+public interface Greet {
+    /**
+     * 인사하기
+     */
+    public abstract void greeting();
+}
+
